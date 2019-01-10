@@ -11,13 +11,16 @@ with and inserted before the last item.
 
 
 def comma_code(lst):
+
     string1=''
+
     for item in range(0,len(lst)-1):
+
         string1 += lst[item].title() + ', '  #added title method for nicer look
 
-    print(string1 + 'and ' + lst[-1])
+    print(string1 + 'and ' + lst[-1].title())
 
 
-spam = ['apples', 'bananas', 'tofu', 'cats']
+spam = ['apples', 'bananas', 'tofu', 'cats', 'dogs']
 
 comma_code(spam)
