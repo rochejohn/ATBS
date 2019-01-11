@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Character_Picture_Grid.py" afterDir="false" />
+    <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="Chapter 4 Final Comma Code">
+      <change afterPath="$PROJECT_DIR$/Fantasy_Game_Inventory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,20 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Comma_Code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Character_Picture_Grid.py">
+        <entry file="file://$PROJECT_DIR$/Fantasy_Game_Inventory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            <state relative-caret-position="345">
+              <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -49,6 +40,7 @@
         <option value="$PROJECT_DIR$/collatz.py" />
         <option value="$PROJECT_DIR$/Comma_Code.py" />
         <option value="$PROJECT_DIR$/Character_Picture_Grid.py" />
+        <option value="$PROJECT_DIR$/Fantasy_Game_Inventory.py" />
       </list>
     </option>
   </component>
@@ -92,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Character_Picture_Grid">
+  <component name="RunManager" selected="Python.Fantasy_Game_Inventory">
     <configuration name="Character_Picture_Grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="collatz" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -135,6 +127,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Fantasy_Game_Inventory" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="collatz" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fantasy_Game_Inventory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="collatz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="collatz" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,6 +171,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fantasy_Game_Inventory" />
         <item itemvalue="Python.Character_Picture_Grid" />
         <item itemvalue="Python.Comma_Code" />
         <item itemvalue="Python.collatz" />
@@ -203,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547098553544</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Chapter 4 Final Comma Code">
+      <created>1547102824335</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547102824335</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -243,6 +264,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Character_Picture_Grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Comma_Code.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -250,10 +278,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Character_Picture_Grid.py">
+    <entry file="file://$PROJECT_DIR$/Fantasy_Game_Inventory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        <state relative-caret-position="345">
+          <caret line="23" column="25" lean-forward="true" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
         </state>
       </provider>
     </entry>
