@@ -1,7 +1,7 @@
 
 tableData = [['apples', 'oranges', 'cherries', 'banana'],
              ['Alice', 'Bob', 'Carol', 'David'],
-             ['dogs', 'cats', 'moose', 'goose']]
+             ['dogs', 'cats', 'moose', 'goose','ddd']]
 
 
 def table_printer(bag):
@@ -14,8 +14,9 @@ def table_printer(bag):
         colWidths[outlist] = mx
 
 
-
-    for i in range(len(bag[0])):
+    x = 0
+    for i in range(len(bag[x])):
+        x+=1
 
 
         for o in range(len(bag)):
@@ -24,6 +25,5 @@ def table_printer(bag):
             print(bag[o][i].rjust(colWidths[o]), end=" ")
 
         print("")
-
 
 table_printer(tableData)

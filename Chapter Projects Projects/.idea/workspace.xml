@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Table_Printer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Table_Printer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Table_Printer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +19,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Table_Printer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="45">
+              <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -44,6 +53,7 @@
         <option value="$PROJECT_DIR$/Comma_Code.py" />
         <option value="$PROJECT_DIR$/Character_Picture_Grid.py" />
         <option value="$PROJECT_DIR$/Fantasy_Game_Inventory.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Table_Printer.py" />
       </list>
     </option>
@@ -173,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="collatz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="collatz" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,7 +195,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collatz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,10 +207,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Table_Printer" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.Fantasy_Game_Inventory" />
         <item itemvalue="Python.Character_Picture_Grid" />
         <item itemvalue="Python.Comma_Code" />
-        <item itemvalue="Python.collatz" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +274,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547176962920</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Chapter 6 Table Printer Part1 (testing)">
+      <created>1547184569029</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1547184569029</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Chapter 6 Table Printer Finished (testing)">
+      <created>1547191417878</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547191417878</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView">
@@ -280,7 +304,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3566265" />
@@ -298,6 +322,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" weight="0.24947146" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3566265" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.49879518" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47108433" />
+      <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Chapter 3 Project collatz" />
@@ -305,7 +348,9 @@
     <MESSAGE value="Chapter 4 Final Comma Code" />
     <MESSAGE value="Chapter 5 Fantasy Game Inventory" />
     <MESSAGE value="Chapter 5 Fantasy Game Inventory Part 2 added (fallen dragon items)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 5 Fantasy Game Inventory Part 2 added (fallen dragon items)" />
+    <MESSAGE value="Chapter 6 Table Printer Part1 (testing)" />
+    <MESSAGE value="Chapter 6 Table Printer Finished (testing)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 Table Printer Finished (testing)" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/collatz.py">
@@ -336,10 +381,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="1688" selection-start-line="1688" selection-end-line="1688" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Table_Printer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="45">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
         </state>
       </provider>
     </entry>
