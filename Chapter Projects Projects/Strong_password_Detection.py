@@ -31,11 +31,11 @@ Password: ''')
 password = input()
 
 print('\nTesting your password now,\nPlease wait.....')
-#time.sleep(1.5)
+time.sleep(1.5)
 print('Working...')
-#time.sleep(1.5)
+time.sleep(1.5)
 print('..........')
-#time.sleep(1.5)
+time.sleep(1.5)
 
 
 check_lower_case = re.compile(r'[a-z]')
@@ -46,12 +46,6 @@ has_lower = check_lower_case.search(password)
 has_higher = check_higher_case.search(password)
 has_num = check_num.search(password)
 
-
-
-
-a = lower.group()
-
-# Lease 8 Chars long
 if len(password) >= 8:
 
     if has_lower != None:
@@ -85,4 +79,3 @@ else:
 
 
 
-#Test against criteria and inform user
