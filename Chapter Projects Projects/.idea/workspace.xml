@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Strong_password_Detection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/collatz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AutomateBoring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regex_strip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Strong_password_Detection.py">
+        <entry file="file://$PROJECT_DIR$/Regex_strip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="30">
+              <caret line="2" column="8" lean-forward="true" selection-end-line="5" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -50,6 +48,7 @@
         <option value="$PROJECT_DIR$/Table_Printer.py" />
         <option value="$PROJECT_DIR$/phone_email" />
         <option value="$PROJECT_DIR$/Strong_password_Detection.py" />
+        <option value="$PROJECT_DIR$/Regex_strip.py" />
       </list>
     </option>
   </component>
@@ -93,28 +92,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Strong_password_Detection">
-    <configuration name="Character_Picture_Grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutomateBoring" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Character_Picture_Grid.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Regex_strip">
     <configuration name="Fantasy_Game_Inventory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,6 +106,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Fantasy_Game_Inventory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Regex_strip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomateBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex_strip.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Regex_strip" />
         <item itemvalue="Python.Strong_password_Detection" />
         <item itemvalue="Python.Table_Printer" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.Fantasy_Game_Inventory" />
-        <item itemvalue="Python.Character_Picture_Grid" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +397,28 @@
       <option name="project" value="LOCAL" />
       <updated>1547193541609</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Password Checker part 1">
+      <created>1547444748901</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547444748901</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Password Checker part 1">
+      <created>1547444889439</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547444889439</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Password Checker Final">
+      <created>1547456530995</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1547456530995</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -417,7 +437,7 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37228915" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6120482" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,7 +481,20 @@
     <MESSAGE value="Chapter 6 Table Printer Part1 (testing)" />
     <MESSAGE value="Chapter 6 Table Printer Finished (testing)" />
     <MESSAGE value="Chapter 6 Table Printer Finished (Possibl look into variable length lists in lists in future" />
-    <option name="LAST_COMMIT_MESSAGE" value="Chapter 6 Table Printer Finished (Possibl look into variable length lists in lists in future" />
+    <MESSAGE value="Password Checker part 1" />
+    <MESSAGE value="Password Checker Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="Password Checker Final" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Strong_password_Detection.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/collatz.py">
@@ -506,20 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Table_Printer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phone_email">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -527,10 +546,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Table_Printer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Strong_password_Detection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="83">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#367#2" />
+            <element signature="e#1258#1809#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regex_strip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="8" lean-forward="true" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
