@@ -11,8 +11,6 @@ import re,time
 
 
 def regex_strip(string, strip = ''):
-    #print(string)
-    #print(strip)
 
     whitespace = re.compile(r'^\s*|\s*$')
     user_def = re.compile(r'^{s}|{s}$'.format(s=strip))
@@ -118,7 +116,6 @@ while True:
 
 
 
-#whitespacebug and whitespaces empty
 
 
 
