@@ -10,14 +10,14 @@ import re,time
 
 
 
-def regex_strip(string, strip = 'default'):
+def regex_strip(string, strip = ''):
     #print(string)
     #print(strip)
 
     whitespace = re.compile(r'^\s*|\s*$')
-    user_def = re.compile(strip)
+    user_def = re.compile(r'^{s}|{s}$'.format(s=strip))
 
-    if strip == 'default':
+    if strip == '':
         string_stripped = whitespace.sub('',string)
         return string_stripped
 

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Regex_strip.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regex_strip.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regex_strip.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Regex_strip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="8" lean-forward="true" selection-end-line="5" selection-end-column="3" />
+            <state relative-caret-position="354">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -418,7 +418,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547456530995</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Regex_strip. WhiteSpace section working.">
+      <created>1547515796079</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1547515796079</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Regex_strip. review ^$ and whitespace">
+      <created>1547522061406</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1547522061406</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -432,12 +446,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" visible="true" weight="0.24947146" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.6120482" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.386747" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -483,7 +496,9 @@
     <MESSAGE value="Chapter 6 Table Printer Finished (Possibl look into variable length lists in lists in future" />
     <MESSAGE value="Password Checker part 1" />
     <MESSAGE value="Password Checker Final" />
-    <option name="LAST_COMMIT_MESSAGE" value="Password Checker Final" />
+    <MESSAGE value="Regex_strip. WhiteSpace section working." />
+    <MESSAGE value="Regex_strip. review ^$ and whitespace" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regex_strip. review ^$ and whitespace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -573,8 +588,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Regex_strip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" lean-forward="true" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="354">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
