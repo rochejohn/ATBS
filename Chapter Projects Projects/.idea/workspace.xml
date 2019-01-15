@@ -19,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Regex_strip.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="270">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -432,7 +432,21 @@
       <option name="project" value="LOCAL" />
       <updated>1547522061406</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Regex_strip. Final! Fixed re expression with .format string subs">
+      <created>1547523192240</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1547523192240</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Regex_strip. Final! Fixed re expression with .format string subs (removed old note)">
+      <created>1547523264521</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547523264521</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -498,7 +512,10 @@
     <MESSAGE value="Password Checker Final" />
     <MESSAGE value="Regex_strip. WhiteSpace section working." />
     <MESSAGE value="Regex_strip. review ^$ and whitespace" />
-    <option name="LAST_COMMIT_MESSAGE" value="Regex_strip. review ^$ and whitespace" />
+    <MESSAGE value="Regex_strip. Final! Fixed re expression with .format string subs" />
+    <MESSAGE value="Regex_strip. Final! Fixed re expression with .format string subs (removed old note)" />
+    <MESSAGE value="Regex_strip. Final! Fixed user_def regex (was missing '*' for 'zero or more'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regex_strip. Final! Fixed user_def regex (was missing '*' for 'zero or more'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -588,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Regex_strip.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="270">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
         </state>
       </provider>
     </entry>

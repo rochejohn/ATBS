@@ -13,7 +13,7 @@ import re,time
 def regex_strip(string, strip = ''):
 
     whitespace = re.compile(r'^\s*|\s*$')
-    user_def = re.compile(r'^{s}|{s}$'.format(s=strip))
+    user_def = re.compile(r'^({s})*|({s})*$'.format(s=strip))
 
     if strip == '':
         string_stripped = whitespace.sub('',string)
