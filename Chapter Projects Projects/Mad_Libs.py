@@ -63,7 +63,7 @@ print()
 
 for word_type in match:
     ans = input('Please enter a {}: '.format(word_type))
-    file_contents= file_contents.replace(word_type,ans)
+    file_contents= file_contents.replace(word_type,ans,1)
 
 print()
 print(file_contents)
