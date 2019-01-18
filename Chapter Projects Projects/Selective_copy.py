@@ -6,3 +6,33 @@ Copy these files from whatever location they are in to a new folder.
 
 
 
+import os,shutil,datetime
+
+
+
+
+try:
+    os.mkdir('PDF_TXT_copied')
+
+except:
+    print('Destination folder already exists!')
+
+print('Now copying all PDF and TXT files from folders and sub-folders!')
+
+
+for folders,subfolders,files in os.walk('files'):
+
+
+    for file in files:
+        if file.endswith(('.pdf','.txt')):
+            print(os.path.join(folders,file))
+            print(file)
+            shutil.copy(os.path.join(folders,file),'PDF_TXT_copied')
+
+print('Done, you can now find a copy of your files under PDF_TXT_copied folder!!')
+
+
+
+
+
+
