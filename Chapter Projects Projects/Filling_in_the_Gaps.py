@@ -8,3 +8,26 @@ into numbered files so that a new file can be added.
 '''
 
 
+import re, shutil, os
+
+
+#TODO create regex to find files
+
+
+folder_location = input('Please type the absolute path for the folder which contains the files: ')
+if not os.path.exists(folder_location):
+    #print('This path does not exist!')
+    quit('This Path does not exist, exiting.')
+
+prefix = input('Please type the file prefix: ')
+
+regex = re.compile(r'{}(\d+)'.format(prefix))  # prefix followed by numbers
+
+
+
+
+#TODO create funtion to loop thru files using os.listdir
+
+for file in os.listdir(folder_location):
+    if file.startswith(prefix):
+        print(file)
