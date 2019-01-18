@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deleting_Unneeded_Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deleting_Unneeded_Files.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +17,11 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Deleting_Unneeded_Files.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="93">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -96,8 +100,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Selective_copy">
-    <configuration name="Extending_the_Multiclipboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Deleting_Unneeded_Files">
+    <configuration name="Deleting_Unneeded_Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Extending_the_Multiclipboard.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deleting_Unneeded_Files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Deleting_Unneeded_Files" />
         <item itemvalue="Python.Selective_copy" />
         <item itemvalue="Python.american-dates_to_europe-dates" />
         <item itemvalue="Python.Regex_Search" />
         <item itemvalue="Python.Mad_Libs" />
-        <item itemvalue="Python.Extending_the_Multiclipboard" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547775882642</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Deleting Unneeded Files Start">
+      <created>1547776026489</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1547776026489</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -466,7 +477,8 @@
     <MESSAGE value="Regex Search Finished&#10;&#10;TODO:&#10;add comments to explain" />
     <MESSAGE value="Selective Copy Start" />
     <MESSAGE value="Selective Copy Finish" />
-    <option name="LAST_COMMIT_MESSAGE" value="Selective Copy Finish" />
+    <MESSAGE value="Deleting Unneeded Files Start" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleting Unneeded Files Start" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -597,13 +609,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Selective_copy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="437">
           <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Deleting_Unneeded_Files.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
