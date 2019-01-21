@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Deleting_Unneeded_Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deleting_Unneeded_Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Debugging_Coin_Toss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Deleting_Unneeded_Files.py">
+        <entry file="file://$PROJECT_DIR$/Debugging_Coin_Toss.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+            <state relative-caret-position="338">
+              <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -57,6 +58,10 @@
         <option value="$PROJECT_DIR$/american-dates_to_europe-dates.py" />
         <option value="$PROJECT_DIR$/Selective_copy.py" />
         <option value="$PROJECT_DIR$/Deleting_Unneeded_Files.py" />
+        <option value="$PROJECT_DIR$/Filling_in_the_Gaps.py" />
+        <option value="$PROJECT_DIR$/box_cutter.py" />
+        <option value="$PROJECT_DIR$/one.py" />
+        <option value="$PROJECT_DIR$/Debugging_Coin_Toss.py" />
       </list>
     </option>
   </component>
@@ -100,7 +105,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Deleting_Unneeded_Files">
+  <component name="RunManager" selected="Python.Debugging_Coin_Toss">
+    <configuration name="Debugging_Coin_Toss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomateBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Debugging_Coin_Toss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Deleting_Unneeded_Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Mad_Libs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Filling_in_the_Gaps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,7 +160,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Mad_Libs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Filling_in_the_Gaps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Regex_Search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="box_cutter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,7 +181,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex_Search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/box_cutter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Selective_copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="one" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,28 +202,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selective_copy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="american-dates_to_europe-dates" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutomateBoring" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/american-dates_to_europe-dates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/one.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,13 +213,16 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Debugging_Coin_Toss" />
+        <item itemvalue="Python.one" />
+        <item itemvalue="Python.box_cutter" />
+        <item itemvalue="Python.Filling_in_the_Gaps" />
         <item itemvalue="Python.Deleting_Unneeded_Files" />
-        <item itemvalue="Python.Selective_copy" />
-        <item itemvalue="Python.american-dates_to_europe-dates" />
-        <item itemvalue="Python.Regex_Search" />
-        <item itemvalue="Python.Mad_Libs" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_INHERITED" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -402,7 +410,28 @@
       <option name="project" value="LOCAL" />
       <updated>1547776026489</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Deleting Unneeded Files&#10;&#10;Files and size working&#10;&#10;Issues on folder sizes&#10;&#10;Will return">
+      <created>1547782204585</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1547782204585</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Filling in the gaps&#10;function 1">
+      <created>1547782355630</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1547782355630</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Filling in the gaps&#10;REVISIT AT A LATER STAGE">
+      <created>1547793539282</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1547793539282</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView">
@@ -435,28 +464,8 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" weight="0.24947146" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3566265" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="6" weight="0.49879518" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.47108433" />
-      <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="TODO" order="9" weight="0.32891566" />
-      <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 3 Project collatz" />
     <MESSAGE value="Chapter 3 Project collatz&#10;Final" />
     <MESSAGE value="Chapter 4 Final Comma Code" />
     <MESSAGE value="Chapter 5 Fantasy Game Inventory" />
@@ -478,7 +487,11 @@
     <MESSAGE value="Selective Copy Start" />
     <MESSAGE value="Selective Copy Finish" />
     <MESSAGE value="Deleting Unneeded Files Start" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleting Unneeded Files Start" />
+    <MESSAGE value="Deleting Unneeded Files&#10;&#10;Files and size working&#10;&#10;Issues on folder sizes&#10;&#10;Will return" />
+    <MESSAGE value="Filling in the gaps&#10;function 1" />
+    <MESSAGE value="Filling in the gaps&#10;REVISIT AT A LATER STAGE" />
+    <MESSAGE value="fixed incorrect spelling guess&#10;added debug line to see toss value&#10;added dict to use with toss int value&#10;added comment to disable logging" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed incorrect spelling guess&#10;added debug line to see toss value&#10;added dict to use with toss int value&#10;added comment to disable logging" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -487,6 +500,11 @@
           <url>file://$PROJECT_DIR$/Strong_password_Detection.py</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/box_cutter.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -614,10 +632,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Filling_in_the_Gaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="28" column="56" lean-forward="true" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Deleting_Unneeded_Files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        <state relative-caret-position="83">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/box_cutter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="51" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="45" lean-forward="true" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Debugging_Coin_Toss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
         </state>
       </provider>
     </entry>
