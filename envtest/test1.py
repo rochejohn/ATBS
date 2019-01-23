@@ -1,1 +1,4 @@
-#test 2nd project
+from selenium import webdriver
+
+driver = webdriver.Chrome()
+driver.get('https://google.com')
