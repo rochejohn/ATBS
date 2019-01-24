@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/command_line_emailer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Image_Site_Downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Site_Downloader.py" afterDir="false" />
     </list>
@@ -16,11 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/command_line_emailer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Image_Site_Downloader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="280">
+              <caret line="79" column="28" lean-forward="true" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -75,6 +85,9 @@
         <option value="$PROJECT_DIR$/lucky.py" />
         <option value="$PROJECT_DIR$/downloadXkcd.py" />
         <option value="$PROJECT_DIR$/gecko.py" />
+        <option value="$PROJECT_DIR$/testdelete.py" />
+        <option value="$PROJECT_DIR$/deletetest.py" />
+        <option value="$PROJECT_DIR$/command_line_emailer.py" />
         <option value="$PROJECT_DIR$/Image_Site_Downloader.py" />
       </list>
     </option>
@@ -105,6 +118,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RunDashboard">
@@ -183,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="collatz" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="deletetest" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -195,7 +209,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/collatz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deletetest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gecko" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="testdelete" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -216,7 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gecko.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testdelete.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,10 +242,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Image_Site_Downloader" />
+        <item itemvalue="Python.deletetest" />
+        <item itemvalue="Python.testdelete" />
         <item itemvalue="Python.Deleting_Unneeded_Files" />
         <item itemvalue="Python.Filling_in_the_Gaps" />
-        <item itemvalue="Python.collatz" />
-        <item itemvalue="Python.gecko" />
       </list>
     </recent_temporary>
   </component>
@@ -459,7 +473,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548216989137</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Imgur Search. Restart due to switch to Selenium">
+      <created>1548226809832</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1548226809832</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Imgur Image downloader.&#10;Finished with BS4 and Requests, and String slicing&#10;&#10;Future option using selenium and .page source">
+      <created>1548298250743</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1548298250743</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TodoView">
@@ -493,25 +521,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" visible="true" weight="0.24947146" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40722892" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.47108433" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="6" weight="0.30963856" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="TODO" order="9" weight="0.27951807" />
-      <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -554,8 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 4 Final Comma Code" />
-    <MESSAGE value="Chapter 5 Fantasy Game Inventory" />
     <MESSAGE value="Chapter 5 Fantasy Game Inventory Part 2 added (fallen dragon items)" />
     <MESSAGE value="Chapter 6 Table Printer Part1 (testing)" />
     <MESSAGE value="Chapter 6 Table Printer Finished (testing)" />
@@ -579,7 +586,9 @@
     <MESSAGE value="Filling in the gaps&#10;REVISIT AT A LATER STAGE" />
     <MESSAGE value="fixed incorrect spelling guess&#10;added debug line to see toss value&#10;added dict to use with toss int value&#10;added comment to disable logging" />
     <MESSAGE value="Imgur Search. Start." />
-    <option name="LAST_COMMIT_MESSAGE" value="Imgur Search. Start." />
+    <MESSAGE value="Imgur Search. Restart due to switch to Selenium" />
+    <MESSAGE value="Imgur Image downloader.&#10;Finished with BS4 and Requests, and String slicing&#10;&#10;Future option using selenium and .page source" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imgur Image downloader.&#10;Finished with BS4 and Requests, and String slicing&#10;&#10;Future option using selenium and .page source" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -827,10 +836,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/testdelete.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="e#78#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deletetest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <element signature="e#102#111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/command_line_emailer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Image_Site_Downloader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="280">
+          <caret line="79" column="28" lean-forward="true" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
         </state>
       </provider>
     </entry>

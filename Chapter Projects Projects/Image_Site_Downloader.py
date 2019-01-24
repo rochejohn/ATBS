@@ -38,7 +38,7 @@ Images will be stored in the current working directory under a folder named afte
 ''')
 
 user_input= input('Please enter topic: ')
-print('\nWorking... Please wait....')
+print('\nWorking... Please wait....\n')
 
 imgur_search = requests.get('https://imgur.com/search?q=' + user_input)
 
@@ -63,6 +63,7 @@ for num in range(search_num):
         logging.debug(mod_link)
 
         final_image = requests.get(mod_link)
+        final_image.raise_for_status()
         logging.debug(os.path.basename(mod_link))
 
         print('Downloading Image: ' + mod_link)
@@ -76,6 +77,10 @@ for num in range(search_num):
         print('Successfully saved as ' + os.path.basename(mod_link))
         print()
 
-    except:
-        print('\n\nAn unidentified issue occured.\nMoving to next file.\n\n')
+    except Exception as err:
+
+        print('\n\nThe following Issue has occurred:\n' + str(err))
+
+        print('\nMoving to next Image.\n\n')
+
         continue
