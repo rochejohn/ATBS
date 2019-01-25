@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2048.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,13 +14,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2048.py">
+        <entry file="file://$PROJECT_DIR$/Link_Verification.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
-              <folding>
-                <element signature="e#410#440#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="238">
+              <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -83,6 +77,8 @@
         <option value="$PROJECT_DIR$/Image_Site_Downloader.py" />
         <option value="$PROJECT_DIR$/command_line_emailer.py" />
         <option value="$PROJECT_DIR$/2048.py" />
+        <option value="$PROJECT_DIR$/DELETE.py" />
+        <option value="$PROJECT_DIR$/Link_Verification.py" />
       </list>
     </option>
   </component>
@@ -127,7 +123,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2048">
+  <component name="RunManager" selected="Python.Link_Verification">
     <configuration name="2048" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,6 +137,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2048.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DELETE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomateBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DELETE.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,6 +187,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Link_Verification" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomateBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Link_Verification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="command_line_emailer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,55 +229,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="deletetest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutomateBoring" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deletetest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="testdelete" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutomateBoring" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testdelete.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Link_Verification" />
+        <item itemvalue="Python.DELETE" />
         <item itemvalue="Python.2048" />
         <item itemvalue="Python.command_line_emailer" />
         <item itemvalue="Python.Image_Site_Downloader" />
-        <item itemvalue="Python.deletetest" />
-        <item itemvalue="Python.testdelete" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +491,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548317292274</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="2048 Automated finished.&#10;With option to play again and also display score in output.">
+      <created>1548380834597</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1548380834597</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Link Verification:&#10;&#10;2 Options added.&#10;Instructions and options listed in script.&#10;&#10;When using other pages requests wont load js so only links show from pre js. (very few, except for good example = automate the boring stuff homepage)">
+      <created>1548395197589</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1548395197589</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView">
@@ -510,15 +520,15 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.63736266" weight="0.30232558" />
-      <window_info id="Python Console" order="1" side_tool="true" weight="0.3093728" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55903614" weight="0.30232558" />
+      <window_info id="Python Console" order="1" sideWeight="0.44096386" side_tool="true" weight="0.30232558" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.45180723" />
-      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.36263737" weight="0.47349396" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.36263737" weight="0.31325302" />
       <window_info anchor="bottom" id="Favorites" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.27951807" />
       <window_info anchor="bottom" id="Structure" order="9" sideWeight="0.5011389" weight="0.24939759" />
@@ -529,15 +539,15 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.63736266" visible="true" weight="0.30232558" />
-      <window_info id="Python Console" order="1" side_tool="true" weight="0.3093728" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55903614" visible="true" weight="0.30232558" />
+      <window_info id="Python Console" order="1" sideWeight="0.44096386" side_tool="true" weight="0.30232558" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.45180723" />
-      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.36263737" weight="0.47349396" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.36263737" weight="0.31325302" />
       <window_info anchor="bottom" id="Favorites" order="7" weight="0.32891566" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.27951807" />
       <window_info anchor="bottom" id="Structure" order="9" sideWeight="0.5011389" weight="0.24939759" />
@@ -589,8 +599,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 6 Table Printer Finished (testing)" />
-    <MESSAGE value="Chapter 6 Table Printer Finished (Possibl look into variable length lists in lists in future" />
     <MESSAGE value="Password Checker part 1" />
     <MESSAGE value="Password Checker Final" />
     <MESSAGE value="Regex_strip. WhiteSpace section working." />
@@ -614,7 +622,9 @@
     <MESSAGE value="Imgur Image downloader.&#10;Finished with BS4 and Requests, and String slicing&#10;&#10;Future option using selenium and .page source" />
     <MESSAGE value="Imgur Image downloader.&#10;Finished with BS4 and Requests, and String slicing&#10;&#10;Future option using selenium and .page source&#10;&#10;Added in raise for status as err.&#10;Informs user in connection timeout and moves on to next." />
     <MESSAGE value="Command Line emailer&#10;&#10;Added two options:&#10;&#10;1) command line only&#10;&#10;2) no command line arguments opens prompt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Command Line emailer&#10;&#10;Added two options:&#10;&#10;1) command line only&#10;&#10;2) no command line arguments opens prompt" />
+    <MESSAGE value="2048 Automated finished.&#10;With option to play again and also display score in output." />
+    <MESSAGE value="Link Verification:&#10;&#10;2 Options added.&#10;Instructions and options listed in script.&#10;&#10;When using other pages requests wont load js so only links show from pre js. (very few, except for good example = automate the boring stuff homepage)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Link Verification:&#10;&#10;2 Options added.&#10;Instructions and options listed in script.&#10;&#10;When using other pages requests wont load js so only links show from pre js. (very few, except for good example = automate the boring stuff homepage)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -883,11 +893,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2048.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+        <state relative-caret-position="243">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
           <folding>
             <element signature="e#410#440#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DELETE.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#94#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Link_Verification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
         </state>
       </provider>
     </entry>

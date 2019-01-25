@@ -4,7 +4,11 @@ The program should flag any pages that have a 404 “Not Found” status code an
 '''
 
 '''
-NOTE: This will check only absolute URLs!!
+When using other pages requests wont load js so only links show from pre js. (very few, except for good example = automate the boring stuff homepage)
+'''
+
+
+'''
 
 Created sample html file to use with broken links
 saved raise exception as err to add to output for more detail
@@ -14,6 +18,9 @@ please ensure file is downloaded.
 
 output:
 Two lists, one with working links, second with broken links and explanation of broken link
+
+Added ability to use any site!
+
 '''
 
 
