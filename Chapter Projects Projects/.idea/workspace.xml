@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/command_line_emailer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2048.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Image_Site_Downloader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image_Site_Downloader.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,21 +15,15 @@
     <favorites_list name="Chapter Projects Projects" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/command_line_emailer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Image_Site_Downloader.py">
+        <entry file="file://$PROJECT_DIR$/2048.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="79" column="28" lean-forward="true" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
+            <state relative-caret-position="374">
+              <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+              <folding>
+                <element signature="e#410#440#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,8 +80,9 @@
         <option value="$PROJECT_DIR$/gecko.py" />
         <option value="$PROJECT_DIR$/testdelete.py" />
         <option value="$PROJECT_DIR$/deletetest.py" />
-        <option value="$PROJECT_DIR$/command_line_emailer.py" />
         <option value="$PROJECT_DIR$/Image_Site_Downloader.py" />
+        <option value="$PROJECT_DIR$/command_line_emailer.py" />
+        <option value="$PROJECT_DIR$/2048.py" />
       </list>
     </option>
   </component>
@@ -133,8 +127,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Image_Site_Downloader">
-    <configuration name="Deleting_Unneeded_Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.2048">
+    <configuration name="2048" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,28 +140,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deleting_Unneeded_Files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Filling_in_the_Gaps" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutomateBoring" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Filling_in_the_Gaps.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2048.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,6 +162,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Image_Site_Downloader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="command_line_emailer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomateBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/command_line_emailer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2048" />
+        <item itemvalue="Python.command_line_emailer" />
         <item itemvalue="Python.Image_Site_Downloader" />
         <item itemvalue="Python.deletetest" />
         <item itemvalue="Python.testdelete" />
-        <item itemvalue="Python.Deleting_Unneeded_Files" />
-        <item itemvalue="Python.Filling_in_the_Gaps" />
       </list>
     </recent_temporary>
   </component>
@@ -487,7 +481,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548298250743</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Imgur Image downloader.&#10;Finished with BS4 and Requests, and String slicing&#10;&#10;Future option using selenium and .page source&#10;&#10;Added in raise for status as err.&#10;Informs user in connection timeout and moves on to next.">
+      <created>1548301234332</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1548301234332</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Command Line emailer&#10;&#10;Added two options:&#10;&#10;1) command line only&#10;&#10;2) no command line arguments opens prompt">
+      <created>1548317292274</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1548317292274</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TodoView">
@@ -501,26 +509,44 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.63736266" weight="0.30232558" />
+      <window_info id="Python Console" order="1" side_tool="true" weight="0.3093728" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40722892" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.47108433" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Python Console" order="6" weight="0.30963856" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="TODO" order="9" weight="0.27951807" />
-      <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.45180723" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.36263737" weight="0.47349396" />
+      <window_info anchor="bottom" id="Favorites" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.27951807" />
+      <window_info anchor="bottom" id="Structure" order="9" sideWeight="0.5011389" weight="0.24939759" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.63736266" visible="true" weight="0.30232558" />
+      <window_info id="Python Console" order="1" side_tool="true" weight="0.3093728" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.45180723" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.36263737" weight="0.47349396" />
+      <window_info anchor="bottom" id="Favorites" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.27951807" />
+      <window_info anchor="bottom" id="Structure" order="9" sideWeight="0.5011389" weight="0.24939759" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -563,8 +589,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Chapter 5 Fantasy Game Inventory Part 2 added (fallen dragon items)" />
-    <MESSAGE value="Chapter 6 Table Printer Part1 (testing)" />
     <MESSAGE value="Chapter 6 Table Printer Finished (testing)" />
     <MESSAGE value="Chapter 6 Table Printer Finished (Possibl look into variable length lists in lists in future" />
     <MESSAGE value="Password Checker part 1" />
@@ -588,7 +612,9 @@
     <MESSAGE value="Imgur Search. Start." />
     <MESSAGE value="Imgur Search. Restart due to switch to Selenium" />
     <MESSAGE value="Imgur Image downloader.&#10;Finished with BS4 and Requests, and String slicing&#10;&#10;Future option using selenium and .page source" />
-    <option name="LAST_COMMIT_MESSAGE" value="Imgur Image downloader.&#10;Finished with BS4 and Requests, and String slicing&#10;&#10;Future option using selenium and .page source" />
+    <MESSAGE value="Imgur Image downloader.&#10;Finished with BS4 and Requests, and String slicing&#10;&#10;Future option using selenium and .page source&#10;&#10;Added in raise for status as err.&#10;Informs user in connection timeout and moves on to next." />
+    <MESSAGE value="Command Line emailer&#10;&#10;Added two options:&#10;&#10;1) command line only&#10;&#10;2) no command line arguments opens prompt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Command Line emailer&#10;&#10;Added two options:&#10;&#10;1) command line only&#10;&#10;2) no command line arguments opens prompt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -836,37 +862,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testdelete.py">
+    <entry file="file://$PROJECT_DIR$/testdelete.py" />
+    <entry file="file://$PROJECT_DIR$/deletetest.py" />
+    <entry file="file://$PROJECT_DIR$/Image_Site_Downloader.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="46" />
-          <folding>
-            <element signature="e#78#87#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deletetest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#102#111#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="67">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/command_line_emailer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="159">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding>
+            <element signature="e#776#806#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Image_Site_Downloader.py">
+    <entry file="file://$PROJECT_DIR$/2048.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="79" column="28" lean-forward="true" selection-start-line="79" selection-start-column="28" selection-end-line="79" selection-end-column="28" />
+        <state relative-caret-position="374">
+          <caret line="62" column="33" selection-start-line="62" selection-start-column="33" selection-end-line="62" selection-end-column="33" />
+          <folding>
+            <element signature="e#410#440#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
