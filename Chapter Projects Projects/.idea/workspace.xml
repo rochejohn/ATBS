@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="Link Verification:&#10;&#10;2 Options added.&#10;Instructions and options listed in script.&#10;&#10;When using other pages requests wont load js so only links show from pre js. (very few, except for good example = automate the boring stuff homepage)">
-      <change afterPath="$PROJECT_DIR$/Multiplication_Table_Maker.py" afterDir="false" />
+    <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Spreadsheet_Cell_Inverter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,13 +17,19 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Multiplication_Table_Maker.py">
+        <entry file="file://$PROJECT_DIR$/Spreadsheet_Cell_Inverter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-              <folding>
-                <element signature="e#339#363#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="431">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blank_Row_Inserter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41">
+              <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -88,6 +94,8 @@
         <option value="$PROJECT_DIR$/delete-tutorial-project.py" />
         <option value="$PROJECT_DIR$/update_spreadsheet_DELETE.py" />
         <option value="$PROJECT_DIR$/Multiplication_Table_Maker.py" />
+        <option value="$PROJECT_DIR$/Blank_Row_Inserter.py" />
+        <option value="$PROJECT_DIR$/Spreadsheet_Cell_Inverter.py" />
       </list>
     </option>
   </component>
@@ -132,8 +140,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Multiplication_Table_Maker">
-    <configuration name="DELETE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Spreadsheet_Cell_Inverter">
+    <configuration name="Blank_Row_Inserter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,28 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DELETE.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Link_Verification" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutomateBoring" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Link_Verification.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Blank_Row_Inserter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,6 +175,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiplication_Table_Maker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Spreadsheet_Cell_Inverter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomateBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spreadsheet_Cell_Inverter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -240,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Spreadsheet_Cell_Inverter" />
+        <item itemvalue="Python.Blank_Row_Inserter" />
         <item itemvalue="Python.Multiplication_Table_Maker" />
         <item itemvalue="Python.update_spreadsheet_DELETE" />
         <item itemvalue="Python.delete-tutorial-project" />
-        <item itemvalue="Python.Link_Verification" />
-        <item itemvalue="Python.DELETE" />
       </list>
     </recent_temporary>
   </component>
@@ -528,7 +536,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548397212313</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Multiply Table Finished&#10;&#10;Added check and exit warning if no number given.&#10;&#10;Added freeze panes to easy see multiplication">
+      <created>1548909989398</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1548909989398</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Blank Row Inserter Finished">
+      <created>1548927057777</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1548927057777</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TodoView">
@@ -549,9 +571,9 @@
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.6927711" weight="0.31566265" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.31566265" />
       <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.44210526" weight="0.30120483" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" visible="true" weight="0.31325302" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" weight="0.31325302" />
       <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.27951807" />
       <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
@@ -622,9 +644,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Password Checker part 1" />
-    <MESSAGE value="Password Checker Final" />
-    <MESSAGE value="Regex_strip. WhiteSpace section working." />
     <MESSAGE value="Regex_strip. review ^$ and whitespace" />
     <MESSAGE value="Regex_strip. Final! Fixed re expression with .format string subs" />
     <MESSAGE value="Regex_strip. Final! Fixed re expression with .format string subs (removed old note)" />
@@ -647,7 +666,10 @@
     <MESSAGE value="Command Line emailer&#10;&#10;Added two options:&#10;&#10;1) command line only&#10;&#10;2) no command line arguments opens prompt" />
     <MESSAGE value="2048 Automated finished.&#10;With option to play again and also display score in output." />
     <MESSAGE value="Link Verification:&#10;&#10;2 Options added.&#10;Instructions and options listed in script.&#10;&#10;When using other pages requests wont load js so only links show from pre js. (very few, except for good example = automate the boring stuff homepage)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Link Verification:&#10;&#10;2 Options added.&#10;Instructions and options listed in script.&#10;&#10;When using other pages requests wont load js so only links show from pre js. (very few, except for good example = automate the boring stuff homepage)" />
+    <MESSAGE value="Multiply Table Finished&#10;&#10;Added check and exit warning if no number given.&#10;&#10;Added freeze panes to easy see multiplication" />
+    <MESSAGE value="Blank Row Inserter Finished" />
+    <MESSAGE value="Spreadsheet Cell Inverter&#10;&#10;for loop in range of max rows&#10;&#10;used cell.column to get column &gt; then converted to index(number)&#10;&#10;Then flipped row and column to save as new spreadsheet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spreadsheet Cell Inverter&#10;&#10;for loop in range of max rows&#10;&#10;used cell.column to get column &gt; then converted to index(number)&#10;&#10;Then flipped row and column to save as new spreadsheet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -948,11 +970,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Multiplication_Table_Maker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
+        <state relative-caret-position="886">
+          <caret line="80" column="36" lean-forward="true" selection-start-line="80" selection-start-column="36" selection-end-line="80" selection-end-column="36" />
           <folding>
             <element signature="e#339#363#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blank_Row_Inserter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="25" column="35" lean-forward="true" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spreadsheet_Cell_Inverter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
