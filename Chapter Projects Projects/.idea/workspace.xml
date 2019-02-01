@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Spreadsheet_to_Text_Files.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Blank_Row_Inserter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Blank_Row_Inserter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text_Files_to_Spreadsheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Text_Files_to_Spreadsheet.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,17 +20,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Text_Files_to_Spreadsheet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+            <state relative-caret-position="258">
+              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Blank_Row_Inserter.py">
+        <entry file="file://$PROJECT_DIR$/Spreadsheet_to_Text_Files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+            <state relative-caret-position="225">
+              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+              <folding>
+                <element signature="e#238#253#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,9 +98,10 @@
         <option value="$PROJECT_DIR$/delete-tutorial-project.py" />
         <option value="$PROJECT_DIR$/update_spreadsheet_DELETE.py" />
         <option value="$PROJECT_DIR$/Multiplication_Table_Maker.py" />
-        <option value="$PROJECT_DIR$/Text_Files_to_Spreadsheet.py" />
         <option value="$PROJECT_DIR$/Spreadsheet_Cell_Inverter.py" />
         <option value="$PROJECT_DIR$/Blank_Row_Inserter.py" />
+        <option value="$PROJECT_DIR$/Text_Files_to_Spreadsheet.py" />
+        <option value="$PROJECT_DIR$/Spreadsheet_to_Text_Files.py" />
       </list>
     </option>
   </component>
@@ -141,7 +146,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Blank_Row_Inserter">
+  <component name="RunManager" selected="Python.Spreadsheet_to_Text_Files">
     <configuration name="Blank_Row_Inserter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -205,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="delete-tutorial-project" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Spreadsheet_to_Text_Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +222,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/delete-tutorial-project.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spreadsheet_to_Text_Files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="update_spreadsheet_DELETE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Text_Files_to_Spreadsheet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,7 +243,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/update_spreadsheet_DELETE.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Text_Files_to_Spreadsheet.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Spreadsheet_to_Text_Files" />
+        <item itemvalue="Python.Text_Files_to_Spreadsheet" />
         <item itemvalue="Python.Blank_Row_Inserter" />
         <item itemvalue="Python.Spreadsheet_Cell_Inverter" />
         <item itemvalue="Python.Multiplication_Table_Maker" />
-        <item itemvalue="Python.update_spreadsheet_DELETE" />
-        <item itemvalue="Python.delete-tutorial-project" />
       </list>
     </recent_temporary>
   </component>
@@ -565,7 +570,21 @@
       <option name="project" value="LOCAL" />
       <updated>1548982068932</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Blank Row Inserter&#10;Replaced unneeded code">
+      <created>1548982266311</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1548982266311</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Text Files to SpreadSheet Finished">
+      <created>1548984115117</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1548984115117</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView">
@@ -586,9 +605,9 @@
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.6927711" weight="0.31566265" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.31566265" />
       <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.44210526" weight="0.30120483" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" visible="true" weight="0.31325302" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" weight="0.31325302" />
       <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.27951807" />
       <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
@@ -598,25 +617,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55903614" visible="true" weight="0.30232558" />
-      <window_info id="Python Console" order="1" sideWeight="0.44096386" side_tool="true" weight="0.30232558" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.45180723" />
-      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.36263737" weight="0.31325302" />
-      <window_info anchor="bottom" id="Favorites" order="7" weight="0.32891566" />
-      <window_info anchor="bottom" id="TODO" order="8" weight="0.27951807" />
-      <window_info anchor="bottom" id="Structure" order="9" sideWeight="0.5011389" weight="0.24939759" />
-      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32891566" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -659,8 +659,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Regex_strip. Final! Fixed re expression with .format string subs (removed old note)" />
-    <MESSAGE value="Regex_strip. Final! Fixed user_def regex (was missing '*' for 'zero or more'" />
     <MESSAGE value="Extending the MultiClipboard, with own variations and print statements. More user friendly" />
     <MESSAGE value="Finished Mad Libs with extra ability:&#10;Added saved file location print&#10;Added hardcode example" />
     <MESSAGE value="Finished Mad Libs with extra ability:&#10;Added saved file location print&#10;Added hardcode example&#10;(Fixed bug with string.replace replacing every noun!)&#10;Fixed by adding count to string.replace" />
@@ -684,7 +682,9 @@
     <MESSAGE value="Spreadsheet Cell Inverter&#10;&#10;for loop in range of max rows&#10;&#10;used cell.column to get column &gt; then converted to index(number)&#10;&#10;Then flipped row and column to save as new spreadsheet" />
     <MESSAGE value="Spreadsheet Cell Inverter&#10;&#10;Replaced unneeded code" />
     <MESSAGE value="Blank Row Inserter&#10;Replaced unneeded code" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blank Row Inserter&#10;Replaced unneeded code" />
+    <MESSAGE value="Text Files to SpreadSheet Finished" />
+    <MESSAGE value="Spreadsheet to Text files finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="Spreadsheet to Text files finished." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1000,17 +1000,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Text_Files_to_Spreadsheet.py">
+    <entry file="file://$PROJECT_DIR$/Blank_Row_Inserter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        <state relative-caret-position="438">
+          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Blank_Row_Inserter.py">
+    <entry file="file://$PROJECT_DIR$/Text_Files_to_Spreadsheet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+        <state relative-caret-position="258">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spreadsheet_to_Text_Files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="e#238#253#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -13,24 +13,28 @@ the next file to column 3, and so on.
 import openpyxl
 
 file1 = open('files/A1.txt','r')
-file1 = file1.readlines()
+file1_lines = file1.readlines()
+file1.close()
 
 file2 = open('files/B1.txt','r')
-file2 = file2.readlines()
+file2_lines = file2.readlines()
+file2.close()
 
 
 file3 = open('files/C1.txt','r')
-file3 = file3.readlines()
+file3_lines = file3.readlines()
+file3.close()
 
 
 file4 = open('files/D1.txt','r')
+file4_lines = file4.readlines()
+file4.close()
 
-file4 = file4.readlines()
 
 wb = openpyxl.Workbook()
 sheet = wb.active
 
-all_files_list= [file1,file2,file3,file4]
+all_files_list= [file1_lines,file2_lines,file3_lines,file4_lines]
 
 
 col = 0
