@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Spreadsheet_to_Text_Files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excel-to-CSV_Converter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_Files_to_Spreadsheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Text_Files_to_Spreadsheet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../envtest/test1.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,23 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Text_Files_to_Spreadsheet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Spreadsheet_to_Text_Files.py">
+        <entry file="file://$PROJECT_DIR$/Excel-to-CSV_Converter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-              <folding>
-                <element signature="e#238#253#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="566">
+              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
             </state>
           </provider>
         </entry>
@@ -102,6 +90,7 @@
         <option value="$PROJECT_DIR$/Blank_Row_Inserter.py" />
         <option value="$PROJECT_DIR$/Text_Files_to_Spreadsheet.py" />
         <option value="$PROJECT_DIR$/Spreadsheet_to_Text_Files.py" />
+        <option value="$PROJECT_DIR$/Excel-to-CSV_Converter.py" />
       </list>
     </option>
   </component>
@@ -146,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Spreadsheet_to_Text_Files">
+  <component name="RunManager" selected="Python.Excel-to-CSV_Converter">
     <configuration name="Blank_Row_Inserter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Multiplication_Table_Maker" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Excel-to-CSV_Converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -180,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Multiplication_Table_Maker.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel-to-CSV_Converter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Excel-to-CSV_Converter" />
         <item itemvalue="Python.Spreadsheet_to_Text_Files" />
         <item itemvalue="Python.Text_Files_to_Spreadsheet" />
         <item itemvalue="Python.Blank_Row_Inserter" />
         <item itemvalue="Python.Spreadsheet_Cell_Inverter" />
-        <item itemvalue="Python.Multiplication_Table_Maker" />
       </list>
     </recent_temporary>
   </component>
@@ -584,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1548984115117</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Spreadsheet to Text files finished.">
+      <created>1548986085162</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1548986085162</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TodoView">
@@ -598,6 +594,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55789477" visible="true" weight="0.30232558" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1007,20 +1004,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Spreadsheet_to_Text_Files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="52" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="52" />
+          <folding>
+            <element signature="e#238#253#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Text_Files_to_Spreadsheet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
+        <state relative-caret-position="468">
           <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Spreadsheet_to_Text_Files.py">
+    <entry file="file://$PROJECT_DIR$/Excel-to-CSV_Converter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding>
-            <element signature="e#238#253#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="566">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
         </state>
       </provider>
     </entry>
