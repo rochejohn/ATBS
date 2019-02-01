@@ -10,3 +10,42 @@ column 1, row 2, and so on. The next file that is read with readlines() will be 
 the next file to column 3, and so on.
 '''
 
+import openpyxl
+
+file1 = open('files/A1.txt','r')
+file1 = file1.readlines()
+
+file2 = open('files/B1.txt','r')
+file2 = file2.readlines()
+
+
+file3 = open('files/C1.txt','r')
+file3 = file3.readlines()
+
+
+file4 = open('files/D1.txt','r')
+
+file4 = file4.readlines()
+
+wb = openpyxl.Workbook()
+sheet = wb.active
+
+all_files_list= [file1,file2,file3,file4]
+
+
+col = 0
+start_row = 0
+
+for file in all_files_list:
+    col+=1
+    start_row+=1
+    row=start_row
+    for line in file:
+        sheet.cell(row=row,column=col).value = line
+        row += 1
+
+wb.save('Text_files_to_spreadsheet.xlsx')
+
+print('\nFiles have been successfully loaded into the spreadsheet named "Text_files_to_spreadsheet.xlsx"')
+
+
