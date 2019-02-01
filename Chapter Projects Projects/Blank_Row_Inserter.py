@@ -48,7 +48,7 @@ for row in range(sheet_original.max_row,start_insert-1,-1):
 
     for col, cellobj in enumerate(cells,1):
 
-        sheet_new.cell(row=row+start_insert, column=col).value = sheet_original[cellobj.coordinate].value
+        sheet_new.cell(row=row+start_insert, column=col).value = cellobj.value
 
 
 
