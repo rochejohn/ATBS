@@ -35,7 +35,7 @@ for row in range(1,sheet_original.max_row+1):
         row_num = cellobj.row
 
 
-        sheet_new.cell(row=col_num,column=row_num).value = sheet_original.cell(row=row_num,column=col_num).value
+        sheet_new.cell(row=col_num,column=row_num).value = cellobj.value
 
 wb_new.save('Inverted_spreadsheet.xlsx')
 
