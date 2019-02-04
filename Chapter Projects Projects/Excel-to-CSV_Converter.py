@@ -91,6 +91,8 @@ for excelFile in os.listdir('.'):
 
             write_csv.writerow(rowData)
 
+            print(rowData)
+
 
 
         csv_file.close()
