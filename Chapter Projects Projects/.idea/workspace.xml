@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Umbrella.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Auto_Unsubscriber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,19 +17,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Umbrella.py">
+        <entry file="file://$PROJECT_DIR$/Auto_Unsubscriber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="74" column="24" selection-end-line="94" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DELETE.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" lean-forward="true" selection-start-line="3" selection-end-line="14" selection-end-column="87" />
+            <state relative-caret-position="304">
+              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+              <folding>
+                <element signature="e#919#936#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,6 +95,7 @@
         <option value="$PROJECT_DIR$/Prettified_Stopwatch.py" />
         <option value="$PROJECT_DIR$/DELETE.py" />
         <option value="$PROJECT_DIR$/Umbrella.py" />
+        <option value="$PROJECT_DIR$/Auto_Unsubscriber.py" />
       </list>
     </option>
   </component>
@@ -145,7 +140,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Umbrella">
+  <component name="RunManager" selected="Python.Auto_Unsubscriber">
+    <configuration name="Auto_Unsubscriber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomateBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Auto_Unsubscriber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="DELETE" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DELETE.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twilio.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -209,27 +225,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Spreadsheet_to_Text_Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutomateBoring" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spreadsheet_to_Text_Files.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="Umbrella" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Auto_Unsubscriber" />
         <item itemvalue="Python.Umbrella" />
         <item itemvalue="Python.DELETE" />
         <item itemvalue="Python.Prettified_Stopwatch" />
         <item itemvalue="Python.Excel-to-CSV_Converter" />
-        <item itemvalue="Python.Spreadsheet_to_Text_Files" />
       </list>
     </recent_temporary>
   </component>
@@ -604,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549243530730</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Weather App that texts you weather from cron job, also has IF statement to add if umbrella is needed.">
+      <created>1549265714340</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1549265714340</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TodoView">
@@ -620,15 +622,15 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55789477" visible="true" weight="0.30232558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.55789477" visible="true" weight="0.30232558" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.6927711" weight="0.31566265" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.4686747" />
       <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.44210526" weight="0.30120483" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" visible="true" weight="0.31325302" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" weight="0.31325302" />
       <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.27951807" />
       <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
@@ -638,6 +640,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55789477" visible="true" weight="0.30232558" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.4686747" />
+      <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.44210526" weight="0.30120483" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" weight="0.31325302" />
+      <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.27951807" />
+      <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
+      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -680,7 +701,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Finished Mad Libs with extra ability:&#10;Added saved file location print&#10;Added hardcode example&#10;(Fixed bug with string.replace replacing every noun!)&#10;Fixed by adding count to string.replace" />
     <MESSAGE value="Regex Search Finished&#10;&#10;TODO:&#10;add comments to explain" />
     <MESSAGE value="Selective Copy Start" />
     <MESSAGE value="Selective Copy Finish" />
@@ -705,7 +725,8 @@
     <MESSAGE value="Spreadsheet to Text files finished." />
     <MESSAGE value="Excel-to-CSV Converter&#10;&#10;Review at a later date, currently working successfully" />
     <MESSAGE value="Prettified_Stopwatch Finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prettified_Stopwatch Finished" />
+    <MESSAGE value="Weather App that texts you weather from cron job, also has IF statement to add if umbrella is needed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Weather App that texts you weather from cron job, also has IF statement to add if umbrella is needed." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1065,17 +1086,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DELETE.py">
+    <entry file="file://$PROJECT_DIR$/Umbrella.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" lean-forward="true" selection-start-line="3" selection-end-line="14" selection-end-column="87" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-end-line="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Umbrella.py">
+    <entry file="file://$PROJECT_DIR$/twilio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="74" column="24" selection-end-line="94" />
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="3" selection-end-line="14" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Auto_Unsubscriber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="e#919#936#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
