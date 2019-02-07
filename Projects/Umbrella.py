@@ -38,14 +38,14 @@ from twilio.rest import Client
 
 
 # Your Account Sid and Auth Token from twilio.com/console
-account_sid = 'ACda2ce57dcdf712414bd13779f3b20331'
-auth_token = '1a42f68dd2e333f7513bc6368fd80bdc'
+account_sid = '######'
+auth_token = '#####'
 client = Client(account_sid, auth_token)
 
 
 my_text = weather_output
 
-message = client.messages.create(body=my_text, from_='+61488856205', to='+61435739754')
+message = client.messages.create(body=my_text, from_='#####', to='######')
 
 
 
