@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Auto_Unsubscriber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Character_Picture_Grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Character_Picture_Grid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regex_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regex_Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Umbrella.py" beforeDir="false" afterPath="$PROJECT_DIR$/Umbrella.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +19,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Auto_Unsubscriber.py">
+        <entry file="file://$PROJECT_DIR$/Regex_Search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
-              <folding>
-                <element signature="e#919#936#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="319">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
             </state>
           </provider>
         </entry>
@@ -64,7 +63,6 @@
         <option value="$PROJECT_DIR$/Extending_the_Multiclipboard.py" />
         <option value="$PROJECT_DIR$/panda.txt" />
         <option value="$PROJECT_DIR$/Mad_Libs.py" />
-        <option value="$PROJECT_DIR$/Regex_Search.py" />
         <option value="$PROJECT_DIR$/american-dates_to_europe-dates.py" />
         <option value="$PROJECT_DIR$/Selective_copy.py" />
         <option value="$PROJECT_DIR$/Deleting_Unneeded_Files.py" />
@@ -94,8 +92,10 @@
         <option value="$PROJECT_DIR$/Excel-to-CSV_Converter.py" />
         <option value="$PROJECT_DIR$/Prettified_Stopwatch.py" />
         <option value="$PROJECT_DIR$/DELETE.py" />
+        <option value="$PROJECT_DIR$/twilio_sms.py" />
         <option value="$PROJECT_DIR$/Umbrella.py" />
         <option value="$PROJECT_DIR$/Auto_Unsubscriber.py" />
+        <option value="$PROJECT_DIR$/Regex_Search.py" />
       </list>
     </option>
   </component>
@@ -140,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Auto_Unsubscriber">
+  <component name="RunManager" selected="Python.Regex_Search">
     <configuration name="Auto_Unsubscriber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,28 +174,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twilio.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Excel-to-CSV_Converter" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutomateBoring" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel-to-CSV_Converter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twilio_sms.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,6 +196,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prettified_Stopwatch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Regex_Search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomateBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex_Search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Regex_Search" />
         <item itemvalue="Python.Auto_Unsubscriber" />
         <item itemvalue="Python.Umbrella" />
         <item itemvalue="Python.DELETE" />
         <item itemvalue="Python.Prettified_Stopwatch" />
-        <item itemvalue="Python.Excel-to-CSV_Converter" />
       </list>
     </recent_temporary>
   </component>
@@ -606,7 +606,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549265714340</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Email Unsub, added email from 'names and email' with list of all links opened.">
+      <created>1549332185307</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1549332185307</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TodoView">
@@ -622,15 +629,15 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.55789477" visible="true" weight="0.30232558" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55789477" weight="0.30232558" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.4686747" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.4686747" />
       <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.44210526" weight="0.30120483" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" weight="0.31325302" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" weight="0.36385542" />
       <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.27951807" />
       <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
@@ -641,15 +648,15 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55789477" visible="true" weight="0.30232558" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.55789477" visible="true" weight="0.30232558" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.6927711" visible="true" weight="0.4686747" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.6927711" weight="0.4686747" />
       <window_info anchor="bottom" id="Python Console" order="6" sideWeight="0.44210526" weight="0.30120483" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" weight="0.31325302" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.36263737" visible="true" weight="0.36385542" />
       <window_info anchor="bottom" id="Favorites" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.27951807" />
       <window_info anchor="bottom" id="Structure" order="10" sideWeight="0.5011389" weight="0.24939759" />
@@ -701,7 +708,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Regex Search Finished&#10;&#10;TODO:&#10;add comments to explain" />
     <MESSAGE value="Selective Copy Start" />
     <MESSAGE value="Selective Copy Finish" />
     <MESSAGE value="Deleting Unneeded Files Start" />
@@ -726,7 +732,8 @@
     <MESSAGE value="Excel-to-CSV Converter&#10;&#10;Review at a later date, currently working successfully" />
     <MESSAGE value="Prettified_Stopwatch Finished" />
     <MESSAGE value="Weather App that texts you weather from cron job, also has IF statement to add if umbrella is needed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Weather App that texts you weather from cron job, also has IF statement to add if umbrella is needed." />
+    <MESSAGE value="Email Unsub, added email from 'names and email' with list of all links opened." />
+    <option name="LAST_COMMIT_MESSAGE" value="Email Unsub, added email from 'names and email' with list of all links opened." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -835,13 +842,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="394">
           <caret line="78" selection-start-line="78" selection-end-line="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Regex_Search.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
@@ -1086,27 +1086,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Umbrella.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/twilio.py">
+    <entry file="file://$PROJECT_DIR$/twilio_sms.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" selection-start-line="3" selection-end-line="14" selection-end-column="87" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Umbrella.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Auto_Unsubscriber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="102" lean-forward="true" selection-start-line="102" selection-end-line="102" />
+        <state relative-caret-position="86">
+          <caret line="83" column="12" lean-forward="true" selection-start-line="83" selection-start-column="12" selection-end-line="83" selection-end-column="12" />
           <folding>
             <element signature="e#919#936#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regex_Search.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
         </state>
       </provider>
     </entry>

@@ -28,3 +28,5 @@ for x in range(len(grid[0])):
     for y in range(len(grid)-1,-1,-1):
         print(grid[y][x],end=' ')
         sleep(0.2) #added sleep to display the image being drawn
+print()
+print()

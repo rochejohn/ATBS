@@ -41,9 +41,9 @@ if os.path.isdir(file_location) == True:
                 match = regex_pattern.search(line)
                 if match != None:
                     print()
-                    print(line)
                     print()
-                    print('The above line(s) matched your regular expression "{}"!'.format(regex_pattern_user_input))
+                    print('The below line(s) matched your regular expression "{}" in the filename "{}"'.format(regex_pattern_user_input,file))
+                    print(line)
 
 
 
