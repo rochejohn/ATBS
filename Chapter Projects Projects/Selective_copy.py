@@ -5,6 +5,7 @@ Copy these files from whatever location they are in to a new folder.
 '''
 
 
+file_loc = input('\nPlease input the directory location you would like to search: ')
 
 import os,shutil,datetime
 
@@ -20,7 +21,7 @@ except:
 print('Now copying all PDF and TXT files from folders and sub-folders!')
 
 
-for folders,subfolders,files in os.walk('files'):
+for folders,subfolders,files in os.walk(file_loc):
 
 
     for file in files:

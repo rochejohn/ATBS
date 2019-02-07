@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="eb773f3a-c869-4e17-a67e-0229040a4676" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Character_Picture_Grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Character_Picture_Grid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regex_Search.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regex_Search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Deleting_Unneeded_Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Deleting_Unneeded_Files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selective_copy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selective_copy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Umbrella.py" beforeDir="false" afterPath="$PROJECT_DIR$/Umbrella.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Regex_Search.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="319">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="345">
+              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Selective_copy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Deleting_Unneeded_Files.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -64,8 +82,6 @@
         <option value="$PROJECT_DIR$/panda.txt" />
         <option value="$PROJECT_DIR$/Mad_Libs.py" />
         <option value="$PROJECT_DIR$/american-dates_to_europe-dates.py" />
-        <option value="$PROJECT_DIR$/Selective_copy.py" />
-        <option value="$PROJECT_DIR$/Deleting_Unneeded_Files.py" />
         <option value="$PROJECT_DIR$/Filling_in_the_Gaps.py" />
         <option value="$PROJECT_DIR$/box_cutter.py" />
         <option value="$PROJECT_DIR$/one.py" />
@@ -96,6 +112,8 @@
         <option value="$PROJECT_DIR$/Umbrella.py" />
         <option value="$PROJECT_DIR$/Auto_Unsubscriber.py" />
         <option value="$PROJECT_DIR$/Regex_Search.py" />
+        <option value="$PROJECT_DIR$/Selective_copy.py" />
+        <option value="$PROJECT_DIR$/Deleting_Unneeded_Files.py" />
       </list>
     </option>
   </component>
@@ -140,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Regex_Search">
+  <component name="RunManager" selected="Python.Deleting_Unneeded_Files">
     <configuration name="Auto_Unsubscriber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DELETE" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Deleting_Unneeded_Files" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="AutomateBoring" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,28 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twilio_sms.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Prettified_Stopwatch" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="AutomateBoring" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prettified_Stopwatch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Deleting_Unneeded_Files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -217,6 +214,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regex_Search.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Selective_copy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="AutomateBoring" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Selective_copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -248,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Deleting_Unneeded_Files" />
+        <item itemvalue="Python.Selective_copy" />
         <item itemvalue="Python.Regex_Search" />
         <item itemvalue="Python.Auto_Unsubscriber" />
         <item itemvalue="Python.Umbrella" />
-        <item itemvalue="Python.DELETE" />
-        <item itemvalue="Python.Prettified_Stopwatch" />
       </list>
     </recent_temporary>
   </component>
@@ -269,13 +287,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547018092515</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Chapter 3 Project collatz">
-      <created>1547018229190</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1547018229190</updated>
     </task>
     <task id="LOCAL-00002" summary="Chapter 3 Project collatz&#10;Final">
       <created>1547019689921</created>
@@ -613,7 +624,14 @@
       <option name="project" value="LOCAL" />
       <updated>1549332185307</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Updated Regex File search">
+      <created>1549512212756</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1549512212757</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TodoView">
@@ -627,9 +645,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55789477" weight="0.30232558" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.55789477" visible="true" weight="0.30232558" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
       <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
@@ -708,7 +725,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Selective Copy Start" />
     <MESSAGE value="Selective Copy Finish" />
     <MESSAGE value="Deleting Unneeded Files Start" />
     <MESSAGE value="Deleting Unneeded Files&#10;&#10;Files and size working&#10;&#10;Issues on folder sizes&#10;&#10;Will return" />
@@ -733,7 +749,8 @@
     <MESSAGE value="Prettified_Stopwatch Finished" />
     <MESSAGE value="Weather App that texts you weather from cron job, also has IF statement to add if umbrella is needed." />
     <MESSAGE value="Email Unsub, added email from 'names and email' with list of all links opened." />
-    <option name="LAST_COMMIT_MESSAGE" value="Email Unsub, added email from 'names and email' with list of all links opened." />
+    <MESSAGE value="Updated Regex File search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Regex File search" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -852,24 +869,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Selective_copy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="31" column="80" selection-start-line="31" selection-start-column="80" selection-end-line="31" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Filling_in_the_Gaps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="28" column="56" lean-forward="true" selection-start-line="28" selection-start-column="56" selection-end-line="28" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Deleting_Unneeded_Files.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-end-line="17" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1112,8 +1115,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Regex_Search.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="345">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Selective_copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Deleting_Unneeded_Files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
         </state>
       </provider>
     </entry>
