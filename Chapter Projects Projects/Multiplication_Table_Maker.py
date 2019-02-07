@@ -80,4 +80,4 @@ logging.debug(current_sheet.max_column)
 
 wb.save('multiplication-table.xlsx')
 
-print('Table is now ready and saved at ' + os.getcwd() + ' with the file name "multiplication-table.xlsx"')
+print('Table is now ready and saved at ' + os.getcwd() + '\nWith the file name "multiplication-table.xlsx"')

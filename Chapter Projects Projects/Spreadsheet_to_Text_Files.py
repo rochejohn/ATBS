@@ -10,7 +10,11 @@ import logging
 logging.basicConfig(level=logging.DEBUG, format = '%(asctime)s - %(levelname)s - %(message)s')
 logging.disable(logging.CRITICAL)
 
-wb = openpyxl.load_workbook('files/Text_files_to_spreadsheet.xlsx')
+user_file = input('Please input a spreadsheet file: ')
+
+#ser_file = '/users/john/testfiles/Text_files_to_spreadsheet.xlsx'
+
+wb = openpyxl.load_workbook(user_file)
 sheet = wb.active
 
 file_num = 0

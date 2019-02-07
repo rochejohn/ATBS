@@ -24,7 +24,7 @@ Example to be used (Dog Memes from Imgur)
 
 from selenium import webdriver
 
-import logging,bs4,requests,os
+import logging,bs4,requests,os,time
 logging.basicConfig(level=logging.DEBUG, format=' %(asctime)s - %(levelname)s- %(message)s')
 logging.disable(logging.CRITICAL)
 print('''
@@ -75,6 +75,7 @@ for num in range(search_num):
         playfile.close()
 
         print('Successfully saved as ' + os.path.basename(mod_link))
+        time.sleep(4)
         print()
 
     except Exception as err:
@@ -84,3 +85,5 @@ for num in range(search_num):
         print('\nMoving to next Image.\n\n')
 
         continue
+
+print('Finished downloading, files stored in folder: "Imgur Downloads!"')

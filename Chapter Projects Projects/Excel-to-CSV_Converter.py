@@ -43,14 +43,19 @@ You can use these as the files to test the program on.
 
 import os, openpyxl,csv
 
-os.chdir('excelSpreadsheets')
+excelspreadsheets = input('Please input absolute location for excel spreadsheets: ')
+
+os.chdir(excelspreadsheets)
 
 for excelFile in os.listdir('.'):
-    #print(excelFile)
+
+
 
     # Skip non-xlsx files, load the workbook object.
     if not excelFile.endswith('.xlsx'):
         continue
+
+    print('\nFound Excel File ' + excelFile)
 
     wb = openpyxl.load_workbook(excelFile)
     # Loop through every sheet in the workbook.
@@ -62,7 +67,7 @@ for excelFile in os.listdir('.'):
         # Create the CSV filename from the Excel filename and sheet title.
         csv_filename = excelFile[:len(excelFile)-5] +'_'+sheetName
 
-        csv_file = open(csv_filename+'.csv', 'w', newline='')
+        csv_file = open(csv_filename+'.csv', 'w', newline='') #newline specific to windows
 
         #print(csv_filename)
 
@@ -91,14 +96,19 @@ for excelFile in os.listdir('.'):
 
             write_csv.writerow(rowData)
 
-            print(rowData)
+            #print(rowData)
 
 
 
         csv_file.close()
 
+        print('\nCreated CSV file: ' + csv_filename)
 
-## REVIEW AT A LATER DATE
+
+
+print('All Excel files have now been converted and are stored in the same directory as Excel.')
+
+
 
 
 

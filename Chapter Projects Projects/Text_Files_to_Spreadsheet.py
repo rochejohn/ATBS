@@ -12,21 +12,21 @@ the next file to column 3, and so on.
 
 import openpyxl
 
-file1 = open('files/A1.txt','r')
+file1 = open('/users/john/testfiles/A1.txt','r')
 file1_lines = file1.readlines()
 file1.close()
 
-file2 = open('files/B1.txt','r')
+file2 = open('/users/john/testfiles/B1.txt','r')
 file2_lines = file2.readlines()
 file2.close()
 
 
-file3 = open('files/C1.txt','r')
+file3 = open('/users/john/testfiles/C1.txt','r')
 file3_lines = file3.readlines()
 file3.close()
 
 
-file4 = open('files/D1.txt','r')
+file4 = open('/users/john/testfiles/D1.txt','r')
 file4_lines = file4.readlines()
 file4.close()
 

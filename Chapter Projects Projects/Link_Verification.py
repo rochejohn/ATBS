@@ -44,6 +44,8 @@ You have two options:
 
 correct_ans = ('1','2')
 
+webpage_file = ''
+
 while True:
     user_answer = input('Please type 1 or 2: ')
     if user_answer in correct_ans:
@@ -99,10 +101,15 @@ for link in range(len(soup_webpage_links)):
         # deals with absolute links
 
 
-        test_link_attempt = requests.get(test_link)
+
 
         try:
+
+            print('Working on new link!')
+            test_link_attempt = requests.get(test_link)
+
             test_link_attempt.raise_for_status()
+
             working_links.append(test_link)
 
         except Exception as err:
@@ -120,6 +127,9 @@ for link in range(len(soup_webpage_links)):
         #test_link_attempt = requests.get(test_link)
 
         try:
+            print('Working on new link!')
+
+            test_link_attempt = requests.get(test_link)
             test_link_attempt.raise_for_status()
             working_links.append(test_link)
 

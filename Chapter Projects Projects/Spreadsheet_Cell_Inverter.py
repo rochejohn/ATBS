@@ -16,9 +16,9 @@ from openpyxl.utils import get_column_letter, column_index_from_string
 logging.disable(logging.CRITICAL)
 
 
-#user_input = ('Please supply a spreadsheet to be inverted!\n\nSpreadsheet name: ')
+user_input = input('Please supply a spreadsheet to be inverted!\n\nSpreadsheet name: ')
 
-user_input = 'Before_inverted.xlsx'
+#user_input = 'Before_inverted.xlsx'
 
 wb_original = openpyxl.load_workbook(user_input)
 
