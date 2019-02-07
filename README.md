@@ -23,7 +23,7 @@
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/umbrella.gif)
 
 ---
-![Weather Text](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/weather_text.jpg)
+![Weather Text](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/weather_text.jpg =250x)
 ---
 
 
