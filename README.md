@@ -16,17 +16,18 @@
 * **Chapter 16 - Sending Email and Text Messages:**  
 
 
-    * [Umbrella Reminder](https://github.com/rochejohn/ATBS/blob/master/Projects/Umbrella.py)    
+ * [Umbrella Reminder](https://github.com/rochejohn/ATBS/blob/master/Projects/Umbrella.py)    
 
 **Umbrella Reminder GIF**
 
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/umbrella.gif)
 
-
+---
+![Weather Text](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/weather_text.jpg)
 ---
 
 
-   * [Auto Unsubscriber](https://github.com/rochejohn/ATBS/blob/master/Projects/Auto_Unsubscriber.py)
+* [Auto Unsubscriber](https://github.com/rochejohn/ATBS/blob/master/Projects/Auto_Unsubscriber.py)
 
 
 
