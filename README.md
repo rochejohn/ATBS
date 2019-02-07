@@ -23,7 +23,7 @@
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/umbrella.gif)
 
 ---
-<img src="https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/weather_text.jpg" width="200" height="200" />
+<img src="https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/weather_text.jpg" width="300" height="500" />
 
 ---
 
