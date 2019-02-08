@@ -92,27 +92,28 @@
 > Part 1: The Collatz Sequence. Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
 
 > Part 2: Check User Input for a valid number.
-
-
-
-
+---
 
 ### The Collatz Sequence & Input Validation GIF
 
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c3/collatz:validation.gif)
 
 
-
-
-
-
 ---
-## Chapter 16 - Sending Email and Text Messages:**  
 
+## Chapter 16 - Sending Email and Text Messages
+### Umbrella Reminder
 
- ### [Umbrella Reminder](https://github.com/rochejohn/ATBS/blob/master/Projects/Umbrella.py)    
+* [Umbrella Reminder - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Umbrella.py)
 
-**Umbrella Reminder GIF**
+### Details
+---
+> Part 1: The Collatz Sequence. Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
+
+> Part 2: Check User Input for a valid number.
+---
+
+### Umbrella Reminder GIF
 
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/umbrella.gif)
 
@@ -121,17 +122,27 @@
 
 ---
 
+### Auto Unsubscriber
 
-* [Auto Unsubscriber](https://github.com/rochejohn/ATBS/blob/master/Projects/Auto_Unsubscriber.py)
+* [Auto Unsubscriber - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Auto_Unsubscriber.py)
 
+### Details
+---
+> Part 1: The Collatz Sequence. Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
 
+> Part 2: Check User Input for a valid number.
+---
 
-
-**Auto Unsubscriber GIF**
+### Auto Unsubscriber GIF
 
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/EMAIL_UNSUB.gif)
 
----
+
+
+
+
+
+
 
 
 
