@@ -189,14 +189,19 @@
 
 
 ## Chapter 7 Pattern Matching with Regular Expressions
+
 ### Strong Password Detection
 
 * [Strong Password Detection - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Strong_password_Detection.py)
 
 ### Details
 ---
-> Comma Code Overview:
-- This Function takes a list value as an argument and returns a string with all the items separated by a comma and a space, with "and" inserted before the last item.
+> Strong Password Detection Overview:
+- A function which uses regular expressions to make sure the password string it is passed is strong.
+- Defines requirements for password.
+- Checks if at least eight characters long
+- Contains both uppercase and lowercase characters
+- And at least one digit. 
 ---
 
 ### Strong Password Detection GIF
@@ -211,9 +216,10 @@
 
 ### Details
 ---
->  Character Picture Grid overview:
-- Using nested for loops to flip an image 90 degrees.
-- Using time.sleep to slow print to give illusion of drawing
+>  Regex Version of strip() overview:
+-  A function that takes a string and does the same thing as the strip() string method.
+If no other arguments are passed other than the string to strip, then whitespace characters will be removed from the beginning and end of the string.
+- Contains two examples with the length of each string to easy display difference.
 ---
 
 ### Regex Version of strip() GIF
