@@ -85,7 +85,7 @@
 
 ### Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
 
-- [Required Modules](#Required-Modules)
+- [Prettified Stopwatch](#Prettified-Stopwatch)
 
 ### Chapter 16 – Sending Email and Text Messages
 
