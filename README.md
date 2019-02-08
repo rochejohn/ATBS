@@ -25,7 +25,7 @@
 
 ### Chapter 3 – Functions
 
-- [Required Modules](#Required-Modules)
+- [Collatz Sequence & Input Validation](#Collatz-Sequence-&-Input-Validation)
 
 ### Chapter 4 – Lists
 
@@ -73,7 +73,8 @@
 
 ### Chapter 16 – Sending Email and Text Messages
 
-- [Required Modules](#Required-Modules)
+- [Umbrella Reminder](#Umbrella-Reminder)
+- [Auto Unsubscriber](#Auto-Unsubscriber)
 
 
 ---
@@ -83,7 +84,7 @@
 ---
 
 ## Chapter 3 – Functions
-### The Collatz Sequence & Input Validation
+### Collatz Sequence & Input Validation
 
 * [The Collatz Sequence & Input Validation - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/collatz.py)
 
@@ -102,7 +103,7 @@
 
 ---
 
-## Chapter 16 - Sending Email and Text Messages
+## Chapter 16 Sending Email and Text Messages
 ### Umbrella Reminder
 
 * [Umbrella Reminder - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Umbrella.py)
