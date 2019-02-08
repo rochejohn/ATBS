@@ -11,8 +11,6 @@
 
 ## Introduction
 
-> Template In Progress
-
 > At the end of each chapter of the "Automate The Boring Stuff" book are multiple projects with no available solutions, which encourages students to create their own code.
 
 > Below are my Python Script solution's for each of hte Chapter Project's.
@@ -64,7 +62,7 @@
 ### Chapter 11 – Web Scraping
 
 - [Command Line Emailer](#Command-Line-Emailer)
-- [Image Site Downloader](#CImage-Site-Downloader)
+- [Image Site Downloader](#Image-Site-Downloader)
 - [2048](#2048)
 - [Link Verification](#Link-Verification)
 
