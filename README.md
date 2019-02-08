@@ -109,7 +109,15 @@
 
 ### Details
 ---
-> Part 1: The Collatz Sequence.
+> Umbrella Script Steps:
+- Takes arguement from command line for location. (Umbrella.py {location})
+- Calls and Authenticate to "OpenWeatherMap API" and pulls down json for location.
+- Converts JSON to Dictionary, pulls Weather data.
+- Appends Specific Weather Data to String variable.
+- Condition to check to add "Need Umbrella" string, adds string if True.
+- Finished String variable used as arguement to Twilio module
+- Authenicate with Twilio to send string variable as SMS.
+- SMS received on phone.
 
 >>Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
 
