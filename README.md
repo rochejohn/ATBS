@@ -34,15 +34,16 @@
 
 ### Chapter 5 – Dictionaries and Structuring Data
 
-- [Required Modules](#Required-Modules)
+- [Fantasy Game Inventory / List to Dict Function](#Fantasy-Game-Inventory)
 
 ### Chapter 6 – Manipulating Strings
 
-- [Required Modules](#Required-Modules)
+- [Table Printer](#Table-Printer)
 
 ### Chapter 7 – Pattern Matching with Regular Expressions
 
-- [Required Modules](#Required-Modules)
+- [Strong Password Detection](#Strong-Password-Detection)
+- [Regex Version of strip()](#Regex-Version-of-strip())
 
 ### Chapter 8 – Reading and Writing Files
 
@@ -137,6 +138,170 @@
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c4/Character_Picture_Grid.gif)
 
 ---
+
+## Chapter 5 Dictionaries and Structuring Data
+### Fantasy Game Inventory
+
+* [Fantasy Game Inventory - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Fantasy_Game_Inventory.py)
+
+### Details
+---
+> Part 1:
+- Create a data structure to model the player’s inventory, a dictionary where the keys are string values describing the item in the inventory and the value is an integer value detailing how many of that item the player has, and function to display items.
+
+> Part 2:
+- Create a funtion to add items in a list to the disctionary.
+---
+
+### Fantasy Game Inventory GIF
+
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c5/Fantasy_Game:List:Dict.gif)
+
+---
+
+## Chapter 6 Manipulating Strings
+### Table Printer
+
+* [Table Printer - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Table_Printer.py)
+
+### Details
+---
+> Table Printer Overview:
+- A function named printTable() that takes a list of lists of strings and displays it in a well-organized table with each column right-justified. Assume that all the inner lists will contain the same number of strings.
+---
+
+### Table Printer GIF
+
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c6/Table_Printer.gif)
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+
+## Chapter 7 Pattern Matching with Regular Expressions
+### Strong Password Detection
+
+* [Strong Password Detection - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Strong_password_Detection.py)
+
+### Details
+---
+> Comma Code Overview:
+- This Function takes a list value as an argument and returns a string with all the items separated by a comma and a space, with "and" inserted before the last item.
+---
+
+### Strong Password Detection GIF
+
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c7/Strong_Password.gif)
+
+---
+
+### Regex Version of strip()
+
+* [Regex Version of strip() - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Regex_strip.py)
+
+### Details
+---
+>  Character Picture Grid overview:
+- Using nested for loops to flip an image 90 degrees.
+- Using time.sleep to slow print to give illusion of drawing
+---
+
+### Regex Version of strip() GIF
+
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c7/Regex_strip.gif)
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
