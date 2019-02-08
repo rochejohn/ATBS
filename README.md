@@ -47,7 +47,7 @@
 
 ### Chapter 8 – Reading and Writing Files
 
-- [Required Modules](#Required-Modules)
+- [Extending the Multiclipboard](#Extending-the-Multiclipboard)
 
 ### Chapter 9 – Organizing Files
 
@@ -81,11 +81,12 @@
 
 ---
 
-### **Scripts & GIFs**
+# **Scripts & GIFs**
 
 ---
 
 ## Chapter 3 – Functions
+
 ### Collatz Sequence & Input Validation
 
 * [The Collatz Sequence & Input Validation - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/collatz.py)
@@ -106,6 +107,7 @@
 ---
 
 ## Chapter 4 Lists
+
 ### Comma Code
 
 * [Comma Code - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Comma_Code.py)
@@ -140,6 +142,7 @@
 ---
 
 ## Chapter 5 Dictionaries and Structuring Data
+
 ### Fantasy Game Inventory
 
 * [Fantasy Game Inventory - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Fantasy_Game_Inventory.py)
@@ -160,6 +163,7 @@
 ---
 
 ## Chapter 6 Manipulating Strings
+
 ### Table Printer
 
 * [Table Printer - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Table_Printer.py)
@@ -175,26 +179,14 @@
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c6/Table_Printer.gif)
 
 
-
 ---
-
-
-
-
-
-
-
-
-
-
-
 ## Chapter 7 Pattern Matching with Regular Expressions
 
 ### Strong Password Detection
 
 * [Strong Password Detection - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Strong_password_Detection.py)
 
-### Details
+#### Details
 ---
 > Strong Password Detection Overview:
 - A function which uses regular expressions to make sure the password string it is passed is strong.
@@ -204,7 +196,7 @@
 - And at least one digit. 
 ---
 
-### Strong Password Detection GIF
+#### Strong Password Detection GIF
 
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c7/Strong_Password.gif)
 
@@ -236,6 +228,65 @@ If no other arguments are passed other than the string to strip, then whitespace
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+## Chapter 8 Reading and Writing Files
+
+### Extending the Multiclipboard
+
+* [Extending the Multiclipboard - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Extending_the_Multiclipboard.py)
+
+### Details
+---
+> Strong Password Detection Overview:
+- A function which uses regular expressions to make sure the password string it is passed is strong.
+- Defines requirements for password.
+- Checks if at least eight characters long
+- Contains both uppercase and lowercase characters
+- And at least one digit. 
+---
+
+### Extending the Multiclipboard GIF
+
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c8/Multi_ClipBoard.gif)
+
+---
+
+### Regex Version of strip()
+
+* [Regex Version of strip() - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Regex_strip.py)
+
+### Details
+---
+>  Regex Version of strip() overview:
+-  A function that takes a string and does the same thing as the strip() string method.
+If no other arguments are passed other than the string to strip, then whitespace characters will be removed from the beginning and end of the string.
+- Contains two examples with the length of each string to easy display difference.
+---
+
+### Regex Version of strip() GIF
+
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c7/Regex_strip.gif)
+
+---
 
 
 
