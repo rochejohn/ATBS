@@ -10,7 +10,7 @@
 - [Team](#team)
 - [FAQ](#faq)
 - [Support](#support)
-- [Required Modules](#RequiredModules)
+- [Required Modules](#Required-Modules)
 
 
 
