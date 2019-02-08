@@ -25,7 +25,7 @@
 
 ### Chapter 3 – Functions
 
-- [Collatz Sequence & Input Validation](#Collatz Sequence & Input Validation)
+- [Collatz Sequence & Input Validation](#Collatz-sequence--input-validation)
 
 ### Chapter 4 – Lists
 
