@@ -89,7 +89,8 @@
 
 ### Details
 ---
-> Part 1: The Collatz Sequence. Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
+> Part 1: The Collatz Sequence.
+>> Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
 
 > Part 2: Check User Input for a valid number.
 ---
@@ -108,7 +109,9 @@
 
 ### Details
 ---
-> Part 1: The Collatz Sequence. Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
+> Part 1: The Collatz Sequence.
+
+>>Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
 
 > Part 2: Check User Input for a valid number.
 ---
@@ -118,6 +121,7 @@
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/umbrella.gif)
 
 ---
+### Text Received from Script Output
 <img src="https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/weather_text.jpg" width="300" height="500" />
 
 ---
@@ -128,7 +132,8 @@
 
 ### Details
 ---
-> Part 1: The Collatz Sequence. Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
+> Script takes in terminal argument.
+>> hello
 
 > Part 2: Check User Input for a valid number.
 ---
