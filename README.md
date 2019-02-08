@@ -20,11 +20,71 @@
 > Also added a GIF/Screenshots for each script to show usage.
 
 > For reference to the book used and also each required third party module required please see the 1) "Book Reference and "Required Modules" sections.
+---
+## Scripts
+
+### Chapter 3 – Functions
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 4 – Lists
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 5 – Dictionaries and Structuring Data
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 6 – Manipulating Strings
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 7 – Pattern Matching with Regular Expressions
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 8 – Reading and Writing Files
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 9 – Organizing Files
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 10 – Debugging
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 11 – Web Scraping
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 12 – Working with Excel Spreadsheets
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 14 – Working with CSV Files and JSON Data
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
+
+- [Required Modules](#Required-Modules)
+
+### Chapter 16 – Sending Email and Text Messages
+
+- [Required Modules](#Required-Modules)
 
 
 
 
 
+
+
+
+
+
+---
 * **Chapter 16 - Sending Email and Text Messages:**  
 
 
@@ -66,7 +126,7 @@
 ---
 ## Required Modules
 
-### You can install all of the modules covered in this book by running the commands listed next.
+### You can install all of the modules required for the above scripts by running the commands listed next.
 
 - **pip install send2trash**
 
