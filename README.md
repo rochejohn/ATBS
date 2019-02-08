@@ -43,7 +43,7 @@
 ### Chapter 7 – Pattern Matching with Regular Expressions
 
 - [Strong Password Detection](#Strong-Password-Detection)
-- [Regex Version of strip()](#Regex-Version-of-strip())
+- [Regex Version of strip()](#regex-version-of-strip)
 
 ### Chapter 8 – Reading and Writing Files
 
