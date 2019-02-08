@@ -71,11 +71,17 @@
 
 ### Chapter 12 – Working with Excel Spreadsheets
 
-- [Required Modules](#Required-Modules)
+- [Multiplication Table Maker](#Multiplication-Table-Maker)
+- [Blank Row Inserter](#Blank-Row-Inserter)
+- [Spreadsheet Cell Inverter](#Spreadsheet-Cell-Inverter)
+- [Text Files to Spreadsheet](#Text-Files-to-Spreadsheet)
+- [Spreadsheet to Text Files](#Spreadsheet-to-Text-Files)
+
+
 
 ### Chapter 14 – Working with CSV Files and JSON Data
 
-- [Required Modules](#Required-Modules)
+- [Excel-to-CSV Converter](#Excel-to-CSV-Converter)
 
 ### Chapter 15 – Keeping Time, Scheduling Tasks, and Launching Programs
 
@@ -93,7 +99,7 @@
 
 ---
 
-## Chapter 3 – Functions
+## Chapter 3 Functions
 
 ### Collatz Sequence & Input Validation
 
@@ -609,75 +615,63 @@ in a single folder and locates any gaps in the numbering (such as if there is a 
 
 ---
 
+## Chapter 14 Working with CSV Files and JSON Data
 
+### Excel-to-CSV Converter
 
+* [Excel-to-CSV Converter - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Excel-to-CSV_Converter.py)
 
+#### Details
+---
+> Excel-to-CSV Converter Overview:
+- Goes through every Excel File in Directory
+- Then goes through every worksheet in each Excel Sheet
+- Creates a CSV File for every single Worksheet and outputs to same directory.
+- CSV name structure is Excel Filename and worksheet name joined.
 
 
+---
 
+#### Excel-to-CSV Converter GIF
+---
 
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c14/Excel-to-CSV%20Converter.gif)
 
 
+---
 
+#### Excel Before:
+<img src="https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c14/Excel-to-CSV%20Converter-EXCEL.png" width="300" height="300" />
 
+---
 
+#### CSV After:
+<img src="https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c14/Excel-to-CSV%20Converter-CSV.png" width="300" height="300" />
 
+---
 
+## Chapter 15 Keeping Time, Scheduling Tasks, and Launching Programs
 
+### Prettified Stopwatch
 
+* [Prettified Stopwatch - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Prettified_Stopwatch.py)
 
+#### Details
+---
+> Prettified Stopwatch Overview:
+- Creates a Stop Watch with Justified Text to make it display better.
+- Excepts KeyBoard Interrupt as way to close.
+-Copies Lap times to Clipboard when finished.
 
+---
 
+#### Prettified Stopwatch GIF
+---
 
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c15/Pretty_StopWatch.gif)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ## Chapter 16 Sending Email and Text Messages
 
@@ -731,13 +725,6 @@ in a single folder and locates any gaps in the numbering (such as if there is a 
 
 
 ---
-
-
-
-
-
-
-
 
 
 ## Reference
