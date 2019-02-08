@@ -29,7 +29,8 @@
 
 ### Chapter 4 – Lists
 
-- [Required Modules](#Required-Modules)
+- [Comma Code](#Comma-Code)
+- [Character Picture Grid](#Character-Picture-Grid)
 
 ### Chapter 5 – Dictionaries and Structuring Data
 
@@ -103,6 +104,43 @@
 
 ---
 
+## Chapter 4 Lists
+### Comma Code
+
+* [Comma Code - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Comma_Code.py)
+
+### Details
+---
+> Comma Code Overview:
+- This Function takes a list value as an argument and returns a string with all the items separated by a comma and a space, with "and" inserted before the last item.
+---
+
+### Comma Code GIF
+
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c4/Comma_code.gif)
+
+---
+
+### Character Picture Grid
+
+* [Character Picture Grid - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/Character_Picture_Grid.py)
+
+### Details
+---
+>  Character Picture Grid overview:
+- Using nested for loops to flip an image 90 degrees.
+- Using time.sleep to slow print to give illusion of drawing
+---
+
+### Character Picture Grid GIF
+
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c4/Character_Picture_Grid.gif)
+
+---
+
+
+
+
 ## Chapter 16 Sending Email and Text Messages
 ### Umbrella Reminder
 
@@ -110,7 +148,7 @@
 
 ### Details
 ---
-> Umbrella Script Steps:
+> Umbrella Script Overview:
 - Takes arguement from command line for location. (Umbrella.py {location})
 - Calls and Authenticate to "OpenWeatherMap API" and pulls down json for location.
 - Converts JSON to Dictionary, pulls Weather data.
@@ -153,6 +191,7 @@
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c17/EMAIL_UNSUB.gif)
 
 
+---
 
 
 
