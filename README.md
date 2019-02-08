@@ -89,7 +89,9 @@
 
 ### Details
 > Part 1: The Collatz Sequence.
+
 Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
+
 > Part 2: Check User Input for a valid number.
 
 
