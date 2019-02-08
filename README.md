@@ -25,7 +25,7 @@
 > Automate The Boring Stuff is a free book written by Al Sweigart for learning Python 3. 
 > 
 > This book is available at the following website: https://automatetheboringstuff.com
-RequiredModules
+
 
 * **Chapter 16 - Sending Email and Text Messages:**  
 
