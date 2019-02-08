@@ -85,7 +85,7 @@
 
 
 
-**The Collatz Sequence & Input Validation GIF**
+*The Collatz Sequence & Input Validation GIF*
 
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c3/collatz:validation.gif)
 
