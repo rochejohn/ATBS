@@ -2,29 +2,27 @@
 
 ## Table of Contents (Optional)
 
-> If you're `README` has a lot of info, section headers might be nice.
 
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
+- [Introduction](#Introduction)
+- [Scripts](#Scripts)
+- [Book Reference](#Reference)
 - [Required Modules](#Required-Modules)
 
 
+## Introduction
+
+> Template In Progress
+
+> At the end of each chapter of the "Automate The Boring Stuff" book are multiple projects with no available solutions, which encourages students to create their own code.
+
+> Below are my Python Script solution's for each of hte Chapter Project's.
+
+> Also added a GIF/Screenshots for each script to show usage.
+
+> For reference to the book used and also each required third party module required please see the 1) "Book Reference and "Required Modules" sections.
 
 
->Template In Progress
 
-> Below are my Python Scripts for each  Chapter Project.
-> Each with a GIF to show functionality.
-
-> At the end of each chapter are multiple projects with no available solutions, which encourages students to create their own code.
-
-> Automate The Boring Stuff is a free book written by Al Sweigart for learning Python 3. 
-> 
-> This book is available at the following website: https://automatetheboringstuff.com
 
 
 * **Chapter 16 - Sending Email and Text Messages:**  
@@ -55,6 +53,16 @@
 
 
 
+
+## Reference
+
+> Automate The Boring Stuff is a free book written by Al Sweigart for learning Python 3. 
+> 
+> This book is available at the following website: https://automatetheboringstuff.com
+
+
+
+
 ---
 ## Required Modules
 
@@ -81,20 +89,5 @@
 - **pip install twilio**
 
 
-## Contributing
 
-> To get started...
 
-### Step 1
-
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
