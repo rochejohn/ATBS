@@ -75,6 +75,11 @@
 
 - [Required Modules](#Required-Modules)
 
+
+---
+
+### **Scripts & GIFs**
+
 ---
 
 ## Chapter 3 – Functions
@@ -82,10 +87,16 @@
 
 * [The Collatz Sequence & Input Validation - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/collatz.py)
 
+### Details
+> Part 1: The Collatz Sequence.
+Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
+> Part 2: Check User Input for a valid number.
 
 
 
-*The Collatz Sequence & Input Validation GIF*
+
+
+### The Collatz Sequence & Input Validation GIF
 
 ![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c3/collatz:validation.gif)
 
