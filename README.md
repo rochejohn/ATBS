@@ -1,6 +1,6 @@
 # Automate The Boring Stuff Projects
 
-## Table of Contents (Optional)
+## Table of Contents
 
 
 - [Introduction](#Introduction)
@@ -118,10 +118,6 @@
 - Finished String variable used as arguement to Twilio module
 - Authenicate with Twilio to send string variable as SMS.
 - SMS received on phone.
-
->>Natural numbers when run through a specific function based on being odd or even, specifically stating that regardless of the initial number the series will eventually reach the number 1.
-
-> Part 2: Check User Input for a valid number.
 ---
 
 ### Umbrella Reminder GIF
@@ -140,10 +136,15 @@
 
 ### Details
 ---
-> Script takes in terminal argument.
->> hello
+> Unsubscribe Email overview:
+- Gmail Users only
+- Requests Users Email and Password 
+- Uses module IMAPCLIENT to fetch specific email
+- Uses module PYZMAIL to extract HTML from IMAPCLIENT objects
+- Uses Beautiful Soup to extract Tags with Unsubsribe links
+- Uses WebBrowser module to open each unsubscribe link in Browser
+- Script also displays how many emails it checks, how many unsubscribe links are found and also email senders.
 
-> Part 2: Check User Input for a valid number.
 ---
 
 ### Auto Unsubscriber GIF
