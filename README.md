@@ -75,9 +75,19 @@
 
 - [Required Modules](#Required-Modules)
 
+---
+
+## Chapter 3 – Functions
+### The Collatz Sequence & Input Validation
+
+* [The Collatz Sequence & Input Validation - Code](https://github.com/rochejohn/ATBS/blob/master/Projects/collatz.py)
 
 
 
+
+**The Collatz Sequence & Input Validation GIF**
+
+![GIF](https://github.com/rochejohn/ATBS/blob/master/Projects/gifs/c3/collatz:validation.gif)
 
 
 
@@ -85,10 +95,10 @@
 
 
 ---
-* **Chapter 16 - Sending Email and Text Messages:**  
+## Chapter 16 - Sending Email and Text Messages:**  
 
 
- * [Umbrella Reminder](https://github.com/rochejohn/ATBS/blob/master/Projects/Umbrella.py)    
+ ### [Umbrella Reminder](https://github.com/rochejohn/ATBS/blob/master/Projects/Umbrella.py)    
 
 **Umbrella Reminder GIF**
 
