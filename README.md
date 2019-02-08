@@ -60,25 +60,25 @@ RequiredModules
 
 ### You can install all of the modules covered in this book by running the commands listed next.
 
-- **pip install send2trash
+- **pip install send2trash**
 
-- **pip install requests
+- **pip install requests**
 
-- **pip install beautifulsoup4
+- **pip install beautifulsoup4**
 
-- **pip install selenium
+- **pip install selenium**
 
-- **pip install openpyxl==2.1.4
+- **pip install openpyxl==2.1.4**
 
-- **pip install PyPDF2
+- **pip install PyPDF2**
 
-- **pip install python-docx (install python-docx, not docx)
+- **pip install python-docx (install python-docx, not docx)**
 
-- **pip install imapclient
+- **pip install imapclient**
 
-- **pip install pyzmail
+- **pip install pyzmail**
 
-- **pip install twilio
+- **pip install twilio**
 
 
 ## Contributing
