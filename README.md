@@ -13,7 +13,7 @@
 
 > At the end of each chapter of the "Automate The Boring Stuff" book are multiple projects with no available solutions, which encourages students to create their own code.
 
-> Below are my Python Script solution's for each of hte Chapter Project's.
+> Below are my Python Script solutions for each of the Chapter Projects.
 
 > Also added a GIF/Screenshots for each script to show usage.
 
