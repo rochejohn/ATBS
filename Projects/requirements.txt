@@ -10,7 +10,6 @@ openpyxl==2.6.0
 PyJWT==1.7.1
 pyperclip==1.7.0
 PySocks==1.6.8
-pytemperature==1.0
 pytz==2018.9
 pyzmail36==1.0.4
 requests==2.21.0
