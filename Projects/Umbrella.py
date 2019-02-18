@@ -3,7 +3,7 @@
 
 #! python3
 
-import json, requests, sys, pytemperature
+import json, requests, sys
 
 if len(sys.argv) < 2:
     print('Usage: quickWeather.py location')
@@ -23,7 +23,7 @@ w = weatherData['list']
 # pprint.pprint(w)
 
 
-weather_output = 'Current weather in {loc}:\n\n'.format(loc=location) + w[0]['weather'][0]['main'] + ' - ' +  w[0]['weather'][0]['description'] +'\n\nCurrent temp is: ' +  str(round(pytemperature.k2c(w[0]['main']['temp']))) +'C' + '\n\nMax temp is: ' +  str(round(pytemperature.k2c(w[0]['main']['temp_max'])))+'C' + '\n\nLowest temp is: ' + str(round(pytemperature.k2c(w[0]['main']['temp_min'])))+'C' + '\n\nThe forcast for rain is: ' +  str(w[0]['rain'])
+weather_output = 'Current weather in {loc}:\n\n'.format(loc=location) + w[0]['weather'][0]['main'] + ' - ' +  w[0]['weather'][0]['description'] +'\n\nCurrent temp is: ' +  str(round(w[0]['main']['temp']-273.15)) +'C' + '\n\nMax temp is: ' +  str(round(w[0]['main']['temp_max']-273.15))+'C' + '\n\nLowest temp is: ' + str(round(w[0]['main']['temp_min']-273.15))+'C' + '\n\nThe forcast for rain is: ' +  str(w[0]['rain'])
 
 
 if w[0]['rain'] == None:
@@ -41,14 +41,14 @@ from twilio.rest import Client
 
 
 # Your Account Sid and Auth Token from twilio.com/console
-account_sid = '######'
-auth_token = '#####'
+account_sid = '########'
+auth_token = '########'
 client = Client(account_sid, auth_token)
 
 
 my_text = weather_output
 
-message = client.messages.create(body=my_text, from_='#####', to='######')
+message = client.messages.create(body=my_text, from_='#######', to='#####')
 
 
 
