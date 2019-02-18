@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 '''
 Write a program that takes an email address and string of text on the command line and then,
 using Selenium, logs into your email account and sends an email of the string to the provided address.

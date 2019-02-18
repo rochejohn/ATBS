@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 '''
 Expand the stopwatch project from this chapter so that it uses
 the rjust() and ljust() string methods to “prettify” the output.

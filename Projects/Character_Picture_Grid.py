@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 '''
 Chapter 4 Character Picture Grid
 

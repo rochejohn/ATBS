@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 '''
 Write a program to read in the contents of several text files (you can make the text files yourself)
 and insert those contents into a spreadsheet, with one line of text per row. The lines of the first

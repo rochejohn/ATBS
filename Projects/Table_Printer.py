@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 
 tableData = [['apples', 'oranges', 'cherries', 'banana'],
              ['Alice', 'Bob', 'Carol', 'David'],

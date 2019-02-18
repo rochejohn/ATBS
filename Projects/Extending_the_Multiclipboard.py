@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 '''
 Extend the multiclipboard program in this chapter so that it
 has a delete <keyword> command line argument

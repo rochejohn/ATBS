@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 '''
 Automate the boring stuff chapter 4
 Project: Comma Code

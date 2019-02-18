@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 '''
 Write a program that goes to a photo-sharing site like Flickr or Imgur,
 searches for a category of photos, and then downloads all the resulting images.

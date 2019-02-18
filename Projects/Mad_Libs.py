@@ -1,3 +1,6 @@
+#! /usr/bin/env python3
+
+
 '''
 Finished notes:
 Added default built in string if user wants to test without a file.
